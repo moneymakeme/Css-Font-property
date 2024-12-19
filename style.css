@@ -1,0 +1,27 @@
+body{
+    font-family: Arial;
+    /*The body is A common to all inside tags of text now the css code on font family is arial type*/
+}
+
+h1{
+    font-family: 'Times New Roman',serif;
+    /*The h1 is a head of the website it's font family on 'Times New Roman',serif use this head text */
+}
+p{
+   font-style: italic;
+   font-size: 16px;
+   /*THE p tag of text css chaged on font -style is a italic used our text on 75 degree
+    to 80 degree on this italic use of this purpose
+    then the font size on 16px  using our text increase purpose*/
+}
+h3{
+
+    font:bolder 25px arial;
+    /*The font is a our text that bolder using a text on thickness purpose and
+     25px is increase on our text and the arial is one of the family for the font  */
+}
+/*
+Disclaimer: I am also learning CSS, so if anyone has any doubts, feel free to ask me. I'll try my best to help you!
+Anyway, happy learning! And don't forget, education makes everyone brilliant, so always learn something that interests you!
+See you soon!    AND   Keep up the great work and happy coding! 🌟📚
+*/
